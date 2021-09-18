@@ -1,5 +1,6 @@
 package com.course.javafundamental.basic;
 
+import com.course.javafundamental.basic.datatype.TestString;
 import com.course.javafundamental.basic.kendaraan.Kereta;
 import com.course.javafundamental.basic.kendaraan.Mobil;
 import com.course.javafundamental.basic.kendaraan.Motor;
@@ -15,6 +16,7 @@ public class Main {
 //        Mobil.jumlahBan();
 //        Motor.jumlahBan();
 //        Kereta.jumlahBan();
+        TestString.testString(args);
 
         Date today = new Date();
         System.out.println("Hari ini : " +today);
