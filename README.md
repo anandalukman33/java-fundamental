@@ -10,6 +10,8 @@ dan JDK :
 java version "1.8.0_301"
 Java(TM) SE Runtime Environment (build 1.8.0_301-b09)
 
+#java version "1.8.0_211"
+
 #> Pengenalan Java dengan membuat project baru
 hanya create new project. 
 
